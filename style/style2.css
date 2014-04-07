@@ -1,0 +1,234 @@
+body {
+	background-color:#d9f0ff;
+	}
+
+div#oldal {
+	width:900px;
+	background:#ffffff;
+	border:1px solid #147abc;
+	margin:0 auto 0 auto;
+	box-shadow: 0px 0px 15px #888888;
+	}
+
+div#logo {
+	background-image:url("images/logo.png");
+	height:178px;
+	}
+
+div#menu {
+	width:900px;
+	height:30px;
+	background-image:url("images/menu_bg.png");
+	}
+
+div#menulist1 {
+	float:left;
+	position:relative;
+	top:5px;
+	padding-left:10px;
+	padding-right:10px;
+	}
+
+div#menulist2 {
+	float:left;
+	position:relative;
+	top:5px;
+	padding-left:10px;
+	padding-right:10px;
+	}
+
+div#menulist3 {
+	float:left;
+	position:relative;
+	top:5px;
+	padding-left:10px;
+	padding-right:10px;
+	}
+
+div#menulist4 {
+	float:left;
+	position:relative;
+	top:5px;
+	padding-left:10px;
+	padding-right:10px;
+	}
+
+div#tartalom {
+	padding:20px;
+	}
+	
+div#lablec {
+	padding:10px;
+	border-top:1px dashed #147abc;
+	}
+	
+div#left_menu {
+	width: 160px;
+	height: 100%;
+	float:left;
+	padding-right:20px;
+	font-size:13px;
+	}
+	
+div#right_tartalom {
+	width: auto;
+	height: auto;
+	}
+	
+div#cim {
+	width: 100%;
+	background-color: #5e96ba;
+	color: white;
+	padding: 3px;
+	text-align: center;
+	border: 1px solid #296387;
+	box-shadow: 2px 2px 5px #888888;
+	}
+	
+div#bal_menu_felso {
+	border-bottom: 1px dotted #147abc;
+	padding-top: 10px;
+	}
+	
+div#bal_menu_also {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+	
+div#megrendeles {
+	background-color:#cedee8;
+	color:black;
+	margin:3px;
+	padding:1px;
+	border:1px solid #949494;
+	box-shadow:0px 0px 5px black;
+	}
+	
+div#megrendeles_ajanl {
+	background-color:#a8cde5;
+	color:black;
+	margin:3px;
+	padding:1px;
+	border:1px solid #949494;
+	box-shadow:0px 0px 5px black;
+	}
+	
+div#cim2 {
+	width:680px;
+	margin-bottom:20px;
+	color:#3f657c;
+	border-bottom: 2px solid #3f657c;
+	float:left;
+	}
+	
+a.menu_link {
+	color:#ffffff;
+	text-decoration:none;
+	}
+	
+a.menu_link:hover {
+	color:#dbf1ff;
+	text-decoration:underline;
+	}
+
+a.megrendeles {
+	color:black;
+	text-decoration:none;
+	}
+	
+a.megrendeles:hover {
+	color:#474747;
+	text-decoration:underline;
+	}
+	
+table.table1 {
+	border:none;
+	border-collapse:collapse;
+	}
+
+tr.tr1 {
+	background-color:#5589a9;
+	color:#ffffff;
+	text-align: center;
+	}
+
+td.leiras {
+	background-color:#5589a9;
+	color:#ffffff;
+	width:13%;
+	border: 1px solid #ffffff;
+	text-align: center;
+	height:60px;
+	}
+	
+td.normal1 {
+	width:13%;
+	text-align: center;
+	border: 1px solid #ffffff;
+	background-color:#cedee8;
+	height:60px;
+	}
+	
+td.ajanlott1 {
+	width:13%;
+	border-left: 3px solid #365466;
+	border-right: 3px solid #365466;
+	text-align: center;
+	background-color:#78b8e1;
+	height:60px;
+	}
+
+td.normal2 {
+	width:13%;
+	text-align: center;
+	border: 1px solid #ffffff;
+	background-color:#a8cde5;
+	height:60px;
+	}
+	
+td.ajanlott2 {
+	width:13%;
+	text-align: center;
+	border-left: 3px solid #365466;
+	border-right: 3px solid #365466;
+	background-color:#5cade0;
+	height:60px;
+	}
+	
+td.ajanlott3 {
+	background-color: #3f657c;
+	border-left: 3px solid #365466;
+	border-right: 3px solid #365466;
+	border-top: 3px solid #365466;
+	height:60px;
+	}
+	
+td.ajanlott4 {
+	background-color: #3f657c;
+	border-left: 3px solid #365466;
+	border-right: 3px solid #365466;
+	border-bottom: none;
+	height:60px;
+	}
+	
+td.ajanlott5 {
+	background-color: #3f657c;
+	border-left: 3px solid #365466;
+	border-right: 3px solid #365466;
+	border-top:none;
+	height:60px;
+	}
+	
+td.ajanlott6 {
+	background-color: #3f657c;
+	border-left: 3px solid #365466;
+	border-right: 3px solid #365466;
+	border-top:none;
+	border-bottom:3px solid #365466;
+	height:60px;
+	}
+	
+td.normal {
+	border: 1px solid #ffffff;
+	}
+	
